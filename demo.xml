@@ -1,32 +1,61 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="demo.xsl"?>
 <root>
-  <env>
-    <domain>local</domain>
-  </env>
-  <p>
-    <title>demo page</title>
-    <desc>this is deme page</desc>
-    <owner>openxsl</owner>
-    <icon>//oxm1.cc/img/app_default.png</icon>
-  </p>
-  <data>
+    <env>
+        <domain>local</domain>
+    </env>
+    <p>
+        <title>demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
         <product-list>
-        <i>
-            <title>
-                good watch
-            </title>
-            <brief>
-                car
-            </brief>
-            <price>
-                watch
-            </price>
-            <img>
-                //0.openxsl.com/img/fox.jpg
-            </img>
-        </i>
-    </product-list>
-  </data>
+            <i>
+                <title>
+                    日本东京6日5晚自由行·全日空北京直飞东京6天往返含税机票含行李
+                </title>
+                <brief>
+                    日本5星航空全日空往返，含2件行李托运，快捷舒适，方便您的游览！
+                    ★ 新宿、池袋、银座、涉谷、原宿等时尚中心，潮流前线地自由购物！
+                    ★ 含2件行李托运+1件手提行李5KG，可以尽情买买买。
+                </brief>
+                <price>
+                    1224.22A
+                </price>
+                <img>
+                    //oxm1.cc/img/fox.jpg
+                </img>
+                <href></href>
+            </i>
+            <i>
+                <title>
+                    good watch
+                </title>
+                <brief>
+                    car
+                </brief>
+                <price>
+                    1224.22A
+                </price>
+                <img>//oxm1.cc/img/fox.jpg</img>
+            </i>
+            <i>
+                <title>
+                    good watch
+                </title>
+                <brief>
+                    car
+                </brief>
+                <price>
+                    1224.22
+                </price>
+                <img>
+                    //oxm1.cc/img/fox.jpg
+                </img>
+            </i>
+        </product-list>
+    </data>
 
 </root>
