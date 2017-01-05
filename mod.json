@@ -1,0 +1,6 @@
+{
+  "name": "productlist",
+  "version": "1.0.0",
+  "apiDependencies": ["product-list"]
+}
+
